@@ -1,0 +1,8 @@
+Instructions
+-------------
+1. cd scripts
+2. chmod u+x *.py
+3. open scripts and set path (inline and outline)
+4. testfiles are in the directory src/
+5. run the script inside the scripts/ directory with 
+   $./filename.py

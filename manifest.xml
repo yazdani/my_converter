@@ -1,0 +1,16 @@
+<package>
+  <description brief="my_converter">
+
+     my_converter
+
+  </description>
+  <author>NoEntry</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/my_converter</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
